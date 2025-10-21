@@ -28,7 +28,7 @@
 ### 📊 Total Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sripramod-Y&show_icons=true&hide=contribs,prs&theme=transparent&rank_icon=github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sripramod-Yogarajan&show_icons=true&hide=contribs,prs&theme=transparent&rank_icon=github"/>
 </p>
 
 ---
@@ -62,9 +62,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sripramod-Y/Sripramod-Y/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sripramod-Y/Sripramod-Y/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Sripramod-Y/Sripramod-Y/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sripramod-Yogarajan/Sripramod-Yogarajan/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sripramod-Yogarajan/Sripramod-Yogarajan/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Sripramod-Yogarajan/Sripramod-Yogarajan/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
