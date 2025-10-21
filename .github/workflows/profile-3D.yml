@@ -1,0 +1,34 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"  # Runs daily at 11:30 PM IST
+  workflow_dispatch:      # Allows manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+
+    steps:
+      - name: ⬇️ Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🧠 Generate 3D Contribution SVG
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          OUTPUT_PATH: profile-3d-contrib
+
+      - name: 📤 Commit & Push SVG
+        run: |
+          git config --global core.autocrlf input
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Update 3D profile graph" || echo "No changes to commit"
+          git push
