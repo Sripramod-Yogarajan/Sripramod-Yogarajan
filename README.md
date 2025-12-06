@@ -25,17 +25,6 @@
 
 ---
 
-### 📊 Total Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sripramod-Yogarajan&show_icons=true&hide=contribs,prs&theme=transparent&rank_icon=github"/>
-</p>
-
----
-
-
----
-
 ### 🔧 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" />
