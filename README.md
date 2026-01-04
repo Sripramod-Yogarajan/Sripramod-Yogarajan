@@ -59,6 +59,11 @@
 
 ---
 
+### Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/pramod-0x?ext=contest)
+
+---
+
 ### 📫 Let's Connect
 - 🔗 [LinkedIn](https://linkedin.com/in/sripramod)
 - 📧 sripramodyogarajan1211@gmail.com
