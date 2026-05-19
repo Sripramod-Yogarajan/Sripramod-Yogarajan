@@ -60,7 +60,7 @@
 ---
 
 ### Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/pramod-0x?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/pramod0x?ext=contest)
 
 ---
 
