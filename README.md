@@ -6,16 +6,16 @@
 
 <h1 align="center">Hey, I'm Sripramod Yogarajan 👋</h1>
 <p align="center">
-  Passionate about Cloud Engineering, Fullstack Development, and DevOps Automation. <br/>
-  A technophile with strong focus on building scalable, secure, and real-world solutions.
+  Passionate about Cloud Engineering, Backend Engineering, and Applied AI. <br/>
+  Curious about how technology works at scale, passionate about building systems, and always exploring what's next.
 </p>
 
 ---
 
 ### 🧠 Currently Building Expertise In
-- ☁️ Cloud Engineering (AWS, Infrastructure as Code, CI/CD)
-- 🧩 Fullstack Development (React, Node.js, MongoDB, Express)
-- 🔄 DevOps & Automation (Docker, GitHub Actions, Terraform)
+- ☁️ Cloud Engineering (AWS, IaC, Distributed Infrastructure)
+- 🧩 Backend Engineering (Java, Spring Boot, Databases, Kafka, Docker, Kubernetes)
+- 🤖 Applied AI (LLMs, RAG, Agents, Inference & Evaluation)
 
 ---
 
@@ -27,20 +27,34 @@
 
 ### 🔧 Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg' width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg' width="50" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg' width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" />
+  
 </p>
 
 ---
