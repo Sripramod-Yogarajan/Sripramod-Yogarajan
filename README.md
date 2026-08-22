@@ -1,21 +1,9 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%" height="475"/>
-</p>
-
----
-
-<h1 align="center">Hey, I'm Sripramod Yogarajan 👋</h1>
-<p align="center">
-  Passionate about Cloud Engineering, Backend Engineering, and Applied AI. <br/>
-  Curious about how technology works at scale, passionate about building systems, and always exploring what's next.
-</p>
-
----
-
-### 🧠 Currently Building Expertise In
-- ☁️ Cloud Engineering (AWS, IaC, Distributed Infrastructure)
-- 🧩 Backend Engineering (Java, Spring Boot, Databases, Kafka, Docker, Kubernetes)
-- 🤖 Applied AI (LLMs, RAG, Agents, Inference & Evaluation)
+<a href="https://github.com/Sripramod-Yogarajan/Sripramod-Yogarajan">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sripramod-Yogarajan/Sripramod-Yogarajan/main/dark_mode.svg">
+    <img alt="Sripramod Yogarajan's GitHub Profile README" src="https://raw.githubusercontent.com/Sripramod-Yogarajan/Sripramod-Yogarajan/main/light_mode.svg">
+  </picture>
+</a>
 
 ---
 
