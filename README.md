@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-  <i>Keep shipping. Keep learning. Keep building.</i>
+  <i>Stay Curious. Stay Hungry. Stay Building.</i>
 </p>
