@@ -3,7 +3,7 @@ from pathlib import Path
 import re
 
 
-BIRTH_DATE = date(2006, 3, 13)
+BIRTH_DATE = date(2006, 3, 12)
 
 SVG_FILES = [
     Path("dark_mode.svg"),
