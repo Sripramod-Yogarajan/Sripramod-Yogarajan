@@ -1,25 +1,17 @@
 # Hi, I'm Sripramod 👋
 
-I'm a final-year Computer Science and Engineering student with a strong pull toward backend engineering and cloud infrastructure. I care about understanding systems from first principles, not just using a framework, but knowing why it's built the way it is and what trade-offs it makes at scale.
+I'm a Computer Science and Engineering student with a strong pull toward backend engineering, cloud infrastructure, and the systems that make modern software work at scale.
 
-My long-term goal is to become an excellent backend and cloud engineer working on large-scale distributed systems, with AI and quantitative finance as continuing areas of exploration alongside that. 
+What interests me most about engineering isn't simply learning another framework or collecting technologies. I want to understand what happens underneath them, why systems are designed the way they are, what trade-offs they make, how they behave under scale and failure, and how the different layers of a system come together to solve a real problem. I'm particularly drawn to backend systems, distributed systems, databases, cloud infrastructure, and the engineering practices that make software reliable in the real world.
 
-## 💼 Experience
+My experience at **Appian** gave me my first meaningful exposure to production-grade backend engineering, working with technologies such as Java, Spring Boot, PostgreSQL, Liquibase, GitLab, and AWS. More importantly, it showed me that building software professionally is about much more than writing code. It's about understanding existing systems, making careful changes, thinking about reliability, collaborating with others, and being accountable for what you build.
 
-I interned at **Appian**, working on backend engineering with Spring Boot, PostgreSQL, Liquibase, GitLab, and AWS, my first real exposure to production-grade backend systems and the discipline that comes with them.
+I'm naturally curious across domains, and I enjoy following that curiosity wherever it leads. Alongside backend and cloud engineering, I've been exploring AI/ML, particularly the mechanics behind modern AI systems rather than treating them as black-box APIs. I'm interested in areas such as RAG, agent systems, evaluation, and the intersection between deterministic software and probabilistic models. Quantitative finance is another domain that has caught my attention, particularly because of the interesting intersection of mathematics, software, data, and machine learning.
 
-## 🔭 What I'm Currently Building Expertise In
+I learn best by building. Reading and studying give me the foundation, but building complete systems is where concepts become real. I like working my way through unfamiliar layers, asking why something works, breaking things, fixing them, and gradually developing an intuition for the underlying engineering principles. I don't want to stay confined to a single layer of the stack — I'm interested in understanding how a database, application, network, infrastructure, and distributed system interact as one larger machine.
 
-- **Backend Engineering** — Java, Spring Boot, PostgreSQL (including internals)
-- **Cloud & Infrastructure** — AWS (EC2, Lambda, SQS, Aurora PostgreSQL)
-- **Distributed Systems & Event-Driven Architecture** — Kafka, SRE practices
-- **DevOps** — Git/GitLab workflows, CI/CD
-- **AI/ML** — moving beyond surface-level integrations toward genuine mechanical understanding, with a focus on RAG systems, agent evaluation, and deterministic, explainable business logic where LLMs assist rather than decide
+What ultimately drives me is the desire to build things that are useful. I'm fascinated by real-world problems, especially the ones where the solution isn't obvious and where technology can remove genuine friction. I want to keep exploring different domains, learning from each one, and eventually turn that accumulated knowledge into software that solves meaningful problems.
 
-## 🌱 How I Learn
+I'm still learning, still experimenting, and probably always will be. That's the part I enjoy most.
 
-I learn best by building — not tutorials, not isolated frameworks, but complete systems that force me to confront real engineering trade-offs. I'm drawn to problems that have genuine friction in the real world, and I'd rather spend my time solving something that actually matters than polishing something safe. That curiosity is what pulls me from one layer of the stack to the next — from a database schema, to the service layer, to the infrastructure underneath it, to the systems that keep it all reliable.
-
-## 📫 Let's Connect
-
-Feel free to reach out — always happy to talk backend systems, cloud architecture, or anything at the intersection of engineering and real-world impact.
+If you're interested in backend systems, cloud architecture, distributed systems, AI/ML, or simply building things that solve real problems, feel free to reach out. 👋
