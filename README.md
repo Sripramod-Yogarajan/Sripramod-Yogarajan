@@ -1,76 +1,25 @@
-<a href="https://github.com/Sripramod-Yogarajan/Sripramod-Yogarajan">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sripramod-Yogarajan/Sripramod-Yogarajan/main/dark_mode.svg">
-    <img alt="Sripramod Yogarajan's GitHub Profile README" src="https://raw.githubusercontent.com/Sripramod-Yogarajan/Sripramod-Yogarajan/main/light_mode.svg">
-  </picture>
-</a>
+# Hi, I'm Sripramod 👋
 
----
+I'm a final-year Computer Science and Engineering student with a strong pull toward backend engineering and cloud infrastructure. I care about understanding systems from first principles, not just using a framework, but knowing why it's built the way it is and what trade-offs it makes at scale.
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+My long-term goal is to become an excellent backend and cloud engineer working on large-scale distributed systems, with AI and quantitative finance as continuing areas of exploration alongside that. 
 
----
+## 💼 Experience
 
-### 🔧 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg' width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg' width="50" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg' width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" />
-  
-</p>
+I interned at **Appian**, working on backend engineering with Spring Boot, PostgreSQL, Liquibase, GitLab, and AWS, my first real exposure to production-grade backend systems and the discipline that comes with them.
 
----
+## 🔭 What I'm Currently Building Expertise In
 
-### 🕹️ Contributions
+- **Backend Engineering** — Java, Spring Boot, PostgreSQL (including internals)
+- **Cloud & Infrastructure** — AWS (EC2, Lambda, SQS, Aurora PostgreSQL)
+- **Distributed Systems & Event-Driven Architecture** — Kafka, SRE practices
+- **DevOps** — Git/GitLab workflows, CI/CD
+- **AI/ML** — moving beyond surface-level integrations toward genuine mechanical understanding, with a focus on RAG systems, agent evaluation, and deterministic, explainable business logic where LLMs assist rather than decide
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sripramod-Yogarajan/Sripramod-Yogarajan/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sripramod-Yogarajan/Sripramod-Yogarajan/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Sripramod-Yogarajan/Sripramod-Yogarajan/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+## 🌱 How I Learn
 
+I learn best by building — not tutorials, not isolated frameworks, but complete systems that force me to confront real engineering trade-offs. I'm drawn to problems that have genuine friction in the real world, and I'd rather spend my time solving something that actually matters than polishing something safe. That curiosity is what pulls me from one layer of the stack to the next — from a database schema, to the service layer, to the infrastructure underneath it, to the systems that keep it all reliable.
 
----
+## 📫 Let's Connect
 
-### Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/pramod-0x?ext=contest)
-
----
-
-### 📫 Let's Connect
-- 🔗 [LinkedIn](https://linkedin.com/in/sripramod)
-- 📧 sripramodyogarajan1211@gmail.com
-
----
-
-<p align="center">
-  <i>Stay Curious. Stay Hungry. Stay Building.</i>
-</p>
+Feel free to reach out — always happy to talk backend systems, cloud architecture, or anything at the intersection of engineering and real-world impact.
