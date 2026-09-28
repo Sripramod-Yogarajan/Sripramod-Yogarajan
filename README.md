@@ -1,7 +1,9 @@
 # Hi, I'm Sripramod 👋
 
-I'm a Computer Science and Engineering student and backend developer interested in building reliable software and understanding how systems work underneath.
+I'm a Computer Science and Engineering student and backend developer interested in building reliable software and understanding the systems behind it.
 
-Currently, I'm focused on two areas: **Backend Engineering** and **ML Engineering**. I'm going deep into both through projects, experiments, and hands-on learning, with an emphasis on understanding fundamentals rather than simply using abstractions.
+Currently, I'm focusing on **Backend & Distributed Systems** and **Machine Learning Systems**, going deeper into how these systems are designed, built, and operated through hands-on projects and experimentation.
 
-This GitHub is where I document that journey, things I'm building, experimenting with, and learning along the way.
+I learn by building, breaking things, and understanding what happens underneath the abstractions.
+
+**Open to:** research, collaborations, interesting projects, and opportunities to learn, contribute, and grow.
